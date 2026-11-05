@@ -8,6 +8,8 @@ The controls can be customized.
 
 If you’re looking for an approach like that of RE4, 5, and 6, where there were no item boxes, this mod might interest you.
 
+PS: This mod was not designed with Real Survival mode in mind.
+
 # AI disclosure
 The code of this mod was written by Claude Sonnet 5.5 and tested in-game by me.
 

@@ -6,7 +6,7 @@ Controls: The 'I' key on your keyboard, or the View + Menu buttons on an Xbox co
 
 The controls can be customized.
 
-If you’re looking for an approach like that of RE4, 5, and 6, where there were no item boxes, this mod might interest you.
+If you’re looking for an approach like that of RE4 and RE6, this mod might interest you.
 
 PS: This mod was not designed with Real Survival mode in mind.
 

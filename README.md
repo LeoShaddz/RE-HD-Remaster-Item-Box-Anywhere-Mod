@@ -2,7 +2,7 @@
 
 This mod allows you to access your item box from anywhere.
 
-Controls: The 'I' key on your keyboard, or the View + Menu buttons on an Xbox controller.
+Controls: The 'I' key on your keyboard, or the RB + LB buttons on an Xbox controller.
 
 The controls can be customized.
 
